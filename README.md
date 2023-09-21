@@ -46,7 +46,7 @@ This is a simple multiplication table game developed using Flutter. Players have
 4. Clicking the "Answer" button generates a new multiplication operation for you to solve.
 
 ## Screenshots
- ![Screenshot_1695298747](https://github.com/HaticeDilmac/play_calculate_game/assets/100489350/f6bc5eb9-6cb1-422e-aeab-b6fb78d22441)
+ ![Screenshot_1695298747](https://github.com/HaticeDilmac/play_calculate_game/assets/100489350/8bc06c76-b7ad-432d-ae07-165f9b6e58ee)
 
 
 ## Installation
