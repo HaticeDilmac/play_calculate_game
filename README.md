@@ -24,12 +24,10 @@ Bu projeyi yerel bir Flutter geliştirme ortamında çalıştırmak için aşağ
 
 1. Flutter'ı bilgisayarınıza [kurun](https://flutter.dev/docs/get-started/install).
 
-2. Bu repo'yu klonlayın:
-
-```bash
-git clone https://github.com/sizin_kullanici_adi/your-repo-name.git
+2. Bu repo'yu klonlayın.
 
 
+ 
  
 # Multiplication Table Game
 
